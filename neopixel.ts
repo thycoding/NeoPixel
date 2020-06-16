@@ -43,7 +43,6 @@ enum NeoPixelMode {
 /**
  * Functions to operate NeoPixel strips.
  */
-/**//% weight=5 color=#2699BF icon="\uf110" */
 //% weight=10 color=#019b9b icon="\uf121" block="NeoPixel"
 namespace neopixel {
     //% shim=sendBufferAsm
