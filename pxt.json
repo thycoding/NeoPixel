@@ -1,0 +1,20 @@
+{
+    "name": "NeoPixel",
+    "version": "0.0.1",
+    "description": "AdaFruit NeoPixel @THYCoding </>",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "neopixel.ts",
+        "sendBuffer.asm",
+        "_locales/zh/neopixel-strings.json"
+    ],
+    "testFiles": [
+        "neotest.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
